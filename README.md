@@ -3,7 +3,7 @@
 Welcome to my portfolio! Here are some of the projects I’ve built.
 
 ## 💡 AI & Machine Learning
-- [🧠 Handwritten Digit Recognition](https://github.com/tonpseudo/digit-recognizer)  
+- [🧠 Handwritten Digit Recognition](https://github.com/OthmaneBelkarda1/Handwritten-Digit-Recognition-using-Neural-Networks)  
   A neural network built from scratch to recognize handwritten digits using MNIST.
 
 ## 🌐 Web Development
